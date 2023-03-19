@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+body{
+
+    min-height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('../counter/images/snow.jpg');
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.counter{
+    display: flex;
+    padding: 5px;
+}
+.s2{
+    padding: 5px;
+    margin: 2rem;
+}
